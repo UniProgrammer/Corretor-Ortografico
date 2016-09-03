@@ -50,7 +50,7 @@ public class Ler {
 			while ((linha = bufferedReader.readLine()) != null) {
 
 				// Aqui imprimimos a linha
-				System.out.println(word);
+				System.out.println(linha);
 
 			}
 
@@ -62,5 +62,6 @@ public class Ler {
 	}
 
 }
+
 
 ```
